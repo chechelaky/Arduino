@@ -1,3 +1,18 @@
+/*
+   Autor: Luismar Chechelaky
+   Fonte: https://github.com/chechelaky/Arduino/edit/master/Memc/examples/teste.ino
+
+   https://www.arduino.cc/en/Reference/HomePage
+   1 bytes / uint8_t, byte = (2 ^  8) - 1                 0 to           255
+   2 bytes /           int = (2 ^ 15) - 1           -32,768 to        32,767
+   2 bytes /  unsigned int = (2 ^ 16) - 1                 0 to        65,535
+   4 bytes /          long = (2 ^ 31) - 1    -2,147,483,648 to 2,147,483,647
+   4 bytes / unsigned long = (2 ^ 32) - 1                 0 to 4,294,967,295
+   4 bytes /         float = ()              -3.4028235E+38 to 3.4028235E+38
+   8 bytes /        double =
+
+*/
+
 #include <Wire.h>
 #include <Memc.h>
 
