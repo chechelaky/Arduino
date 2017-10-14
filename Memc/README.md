@@ -1,9 +1,18 @@
-# Memc - MemoryChip
-
-Biblicoteca destinada a ler/gravar dados no módulo RTC & EEPROM DS3231 AT24C32.
+# RTC & EEPROM DS3231 AT24C32
+Características:
+* [relógio](http://www.elecrow.com/download/AT24C32_TEST.zip)
+* termometro digital
+* chip de memória de 32Kbits para leitura/gravação de dados
 ![Alt text](https://github.com/chechelaky/Arduino/blob/master/Memc/atc24c32.jpg "Módulo DS3231 AT24C32")
 
-O Arduino possui memória gravável, através da biblioteca [EEPROM](https://www.arduino.cc/en/Reference/EEPROM).
+O uso como relógio é amplamente debatido na internet.
+Como termometro, um arquivo de exemplo está contido na biblioteca do relógio.
+Pouco é falado sobre a capacidade de leitura/gravação de dados.
+
+# Memc - MemoryChip
+Biblicoteca destinada a ler/gravar dados no módulo RTC & EEPROM DS3231 AT24C32.
+
+O Arduino possui memória utilizável (leitura/gravação), através da biblioteca [EEPROM](https://www.arduino.cc/en/Reference/EEPROM).
 
 A expectativa de ciclos de uso da memória (tanto para o processo de leitura/gravação) é de cerca de 100,000 ciclos ou menos.
 * http://forum.arduino.cc/index.php?topic=188319.0
