@@ -1,4 +1,8 @@
 /*
+
+   Autor: Luismar Chechelaky
+   Fonte: https://github.com/chechelaky/Arduino/blob/master/Memc/Memc.h
+
    https://www.arduino.cc/en/Reference/HomePage
    1 bytes / uint8_t, byte = (2 ^  8) - 1                 0 to           255
    2 bytes /           int = (2 ^ 15) - 1           -32,768 to        32,767
@@ -16,8 +20,6 @@
 
    HOW AND WHY TO USE NAMESPACES
    https://luckyresistor.me/2014/10/31/how-and-why-to-use-namespaces/
-   
-   Autor: Luismar Chechelaky
 */
 
 #pragma once
