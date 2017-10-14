@@ -3,6 +3,7 @@ Características:
 * [relógio](http://www.elecrow.com/download/AT24C32_TEST.zip)
 * termometro digital
 * chip de memória de 32Kbits para leitura/gravação de dados
+* [Informações técnicas](https://www.elecrow.com/rtc-eeprom-module-ds3231-at24c32-p-863.html)
 
 ![Alt text](https://github.com/chechelaky/Arduino/blob/master/Memc/atc24c32.jpg "Módulo DS3231 AT24C32")
 
@@ -25,8 +26,6 @@ Já a capacidade de retenção do módulo AT24C32 (conforme https://www.elecrow.
 * Data Retention: 100 Years
 
 Memória do módulo ATC24c32: 32Kbits ou 4Kbytes.
-
-[Informações técnicas](https://www.elecrow.com/rtc-eeprom-module-ds3231-at24c32-p-863.html)
 
 Testado em:
 * Arduino Mega 2560, funcionamento OK.
