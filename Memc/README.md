@@ -1,7 +1,7 @@
 Memc - MemoryChip
 
 Biblicoteca destinada a ler/gravar dados no módulo RTC & EEPROM DS3231 AT24C32.
-![Alt text](https://github.com/chechelaky/Arduino/blob/master/Memc/atc24c32.jpgg "Módulo DS3231 AT24C32")
+![Alt text](https://github.com/chechelaky/Arduino/blob/master/Memc/atc24c32.jpg "Módulo DS3231 AT24C32")
 
 O Arduino possui memória gravável, através da biblioteca https://www.arduino.cc/en/Reference/EEPROM.
 
@@ -18,5 +18,5 @@ Memória do módulo ATC24c32: 32Kbits ou 4Kbytes.
 
 Informações técnicas: https://www.elecrow.com/rtc-eeprom-module-ds3231-at24c32-p-863.html
 
-Testada e funcional em:
-Arduino Mega 2560
+Testado em:
+Arduino Mega 2560, funcionamento OK.
