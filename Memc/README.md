@@ -16,7 +16,7 @@ Biblicoteca destinada a ler/gravar dados no módulo RTC & EEPROM DS3231 AT24C32.
 
 O Arduino possui memória utilizável (leitura/gravação), através da biblioteca [EEPROM](https://www.arduino.cc/en/Reference/EEPROM).
 
-A expectativa de ciclos de uso da memória (tanto para o processo de leitura/gravação) é de cerca de 100,000 ciclos ou menos.
+A expectativa de ciclos de uso da memória no Arduino (tanto para o processo de leitura/gravação) é de cerca de 100,000 ciclos ou menos.
 * http://forum.arduino.cc/index.php?topic=188319.0
 * https://forum.arduino.cc/index.php?topic=100390.0
 
