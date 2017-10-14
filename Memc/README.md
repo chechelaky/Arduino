@@ -3,6 +3,7 @@ Características:
 * [relógio](http://www.elecrow.com/download/AT24C32_TEST.zip)
 * termometro digital
 * chip de memória de 32Kbits para leitura/gravação de dados
+
 ![Alt text](https://github.com/chechelaky/Arduino/blob/master/Memc/atc24c32.jpg "Módulo DS3231 AT24C32")
 
 O uso como relógio é amplamente debatido na internet.
